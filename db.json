@@ -1,117 +1,126 @@
 {
   "events": [
     {
-      "id": 1,
-      "title": "Tech Conference 2024",
-      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaCUyMENvbmZlcmVuY2UlMjAyMDI0fGVufDB8fDB8fHww",
+      "id": "1",
+      "title": "Summer Music Festival 2024",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&q=80",
       "time": "10:00 AM",
-      "date": "2024-02-15",
-      "location": "San Francisco, CA",
-      "description": "A conference bringing together tech enthusiasts and industry leaders to discuss the future of technology.",
-      "category": "Technology",
-      "host": "Tech Innovators Inc."
-    },
-    {
-      "id": 2,
-      "title": "Art & Design Workshop",
-      "image": "https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "time": "1:00 PM",
-      "date": "2024-03-20",
-      "location": "New York, NY",
-      "description": "An interactive workshop where attendees can explore various art and design techniques.",
-      "category": "Art",
-      "host": "Creative Minds"
-    },
-    {
-      "id": 3,
-      "title": "Startup Pitch Night",
-      "image": "https://plus.unsplash.com/premium_photo-1675791190627-c3ec9ae8bc3d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "time": "6:00 PM",
-      "date": "2024-04-05",
-      "location": "Austin, TX",
-      "description": "Aspiring entrepreneurs present their startup ideas to a panel of investors and mentors.",
-      "category": "Business",
-      "host": "Startup Hub"
-    },
-    {
-      "id": 4,
-      "title": "Music Festival 2024",
-      "image": "https://images.unsplash.com/photo-1493676304819-0d7a8d026dcf?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "time": "4:00 PM",
-      "date": "2024-05-10",
-      "location": "Los Angeles, CA",
-      "description": "Join us for a weekend of live music performances from artists across various genres.",
+      "date": "December 15-17, 2024",
+      "location": "Sarit Expo Center",
+      "description": "Join us for an unforgettable three-day celebration of music, art, and culture at the Sarit Expo Center! The Summer Music Festival 2024 brings together top international and local artists across multiple genres, promising thrilling live performances, captivating visual art installations, and an array of food and drinks. This event is the perfect gathering for music enthusiasts, art lovers, and anyone looking to enjoy the vibrant festival atmosphere. Don’t miss out on the chance to experience your favorite artists live on stage and discover new talents!",
       "category": "Music",
-      "host": "LiveNation"
+      "host": "LiveNation",
+      "price": 1500
     },
     {
-      "id": 5,
+      "id": "2",
+      "title": "Tech Conference 2024",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80",
+      "time": "1:00 PM",
+      "date": "Apr 15, 2025",
+      "location": "Kigali, RW",
+      "description": "Tech Conference 2024 is a must-attend event for innovators, tech enthusiasts, and professionals eager to explore cutting-edge developments in the tech industry. This full-day conference will feature keynote speeches, interactive panel discussions, and hands-on workshops covering topics such as AI, blockchain, IoT, and much more. Network with industry leaders, get insights into the latest technological trends, and engage in discussions that are shaping the future of technology. A fantastic learning opportunity and a chance to connect with like-minded professionals.",
+      "category": "Technology",
+      "host": "Tech Hub",
+      "price": 8000
+    },
+    {
+      "id": "3",
+      "title": "Food & Wine Expo",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80",
+      "time": "6:00 PM",
+      "date": "Jun 10, 2025",
+      "location": "Mombasa, KE",
+      "description": "Indulge in an evening of culinary delights at the Food & Wine Expo in Mombasa, where food enthusiasts and wine connoisseurs gather to sample a variety of exquisite dishes and wines from top chefs and vintners. This event offers a journey through diverse flavors and cuisines, from classic favorites to innovative culinary creations. The expo will also feature cooking demonstrations, wine-tasting workshops, and the chance to meet and learn from culinary experts.",
+      "category": "Food",
+      "host": "Food Lovers",
+      "price": 1000
+    },
+    {
+      "id": "4",
+      "title": "Ye Music Festival 2024",
+      "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&q=80",
+      "time": "4:00 PM",
+      "date": "Dec 1, 2024",
+      "location": "Nairobi, KE",
+      "description": "The Ye Music Festival 2024 is a dynamic event bringing together fans and artists from across various genres for a weekend of spectacular performances. This festival promises an eclectic mix of pop, rock, hip-hop, and more, set against a vibrant festival backdrop in the heart of Nairobi. Enjoy live performances, interactive art installations, and a bustling vendor area with food and merchandise from local artisans.",
+      "category": "Music",
+      "host": "LiveNation",
+      "price": 2000
+    },
+    {
+      "id": "5",
       "title": "Health and Wellness Fair",
-      "image": "https://plus.unsplash.com/premium_photo-1663051227906-41181a2bb6e5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "9:00 AM",
       "date": "2024-06-01",
       "location": "Miami, FL",
-      "description": "A fair dedicated to promoting health and wellness with workshops, yoga sessions, and guest speakers.",
+      "description": "Promoting health, happiness, and personal well-being, the Health and Wellness Fair is a full-day event offering workshops on mindfulness, yoga, meditation, and fitness. With expert speakers and wellness practitioners, attendees can learn about holistic health, nutrition, and lifestyle changes for better health. Don’t miss the chance to try interactive sessions and learn valuable tips to live a balanced and healthy life.",
       "category": "Health",
-      "host": "Wellness Community"
-    },
+      "host": "Wellness Community",
+      "price": 5000    },
     {
-      "id": 6,
+      "id": "6",
       "title": "Culinary Arts Expo",
       "image": "https://plus.unsplash.com/premium_photo-1686360865541-ba8740d3c323?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "11:00 AM",
       "date": "2024-07-15",
       "location": "Chicago, IL",
-      "description": "Experience a showcase of culinary skills with top chefs from around the country.",
+      "description": "Discover the art of cooking from top chefs at the Culinary Arts Expo in Chicago! This event showcases live cooking demonstrations, workshops, and tastings by culinary professionals who will share their techniques, recipes, and insights. It's a perfect event for aspiring chefs, food lovers, and anyone interested in exploring the culinary arts.",
       "category": "Food",
-      "host": "Gourmet Experiences"
+      "host": "Gourmet Experiences",
+      "price": 1200
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Environmental Sustainability Summit",
       "image": "https://images.unsplash.com/photo-1598335624134-5bceb5de202d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "8:00 AM",
       "date": "2024-08-10",
       "location": "Seattle, WA",
-      "description": "A summit focused on discussing sustainable solutions for environmental challenges.",
+      "description": "Join global leaders, environmental experts, and advocates at the Environmental Sustainability Summit in Seattle. This summit is a platform to discuss actionable solutions for pressing environmental issues. Topics include climate change, renewable energy, sustainable agriculture, and waste reduction. Engage in meaningful discussions, attend thought-provoking sessions, and be part of the change towards a greener planet.",
       "category": "Environment",
-      "host": "Green Earth Organization"
+      "host": "Green Earth Organization",
+      "price": 7500
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Fitness Bootcamp",
       "image": "https://images.unsplash.com/photo-1549995546-87cb41aa98a4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "7:00 AM",
       "date": "2024-09-05",
       "location": "Denver, CO",
-      "description": "A high-intensity fitness bootcamp designed for all levels, led by professional trainers.",
+      "description": "This high-energy fitness bootcamp offers a full-body workout for all levels! Guided by top trainers, this bootcamp includes cardio, strength training, and flexibility exercises. It’s an excellent opportunity for fitness enthusiasts and beginners alike to challenge themselves, burn calories, and get in shape.",
       "category": "Fitness",
-      "host": "FitPro Trainers"
+      "host": "FitPro Trainers",
+      "price": 6000
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Book Club Meetup",
       "image": "https://plus.unsplash.com/premium_photo-1706061121381-d7a7a5a06998?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "5:00 PM",
       "date": "2024-10-12",
       "location": "Boston, MA",
-      "description": "Join fellow book lovers to discuss this month's selected book and related themes.",
+      "description": "Book lovers, join us for an engaging evening discussing the month’s selected read and sharing literary insights. This gathering brings together people passionate about reading, creating a space to exchange ideas and perspectives. It’s a welcoming community where members can suggest books, engage in lively discussions, and explore diverse genres and authors.",
       "category": "Literature",
-      "host": "Readers Society"
+      "host": "Readers Society",
+      "price": 1000
     },
     {
-      "id": 10,
-      "title": "Photography Masterclass",
-      "image": "https://images.unsplash.com/photo-1542312940-2b6aaa1b28eb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "10",
+      "title": "Art Exhibition: Colors of Nature",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "2:00 PM",
-      "date": "2024-11-25",
-      "location": "Portland, OR",
-      "description": "A hands-on photography masterclass taught by a renowned photographer.",
-      "category": "Photography",
-      "host": "Visual Arts Collective"
+      "date": "2024-11-23",
+      "location": "San Francisco, CA",
+      "description": "The Colors of Nature exhibition showcases works from various artists who have captured the beauty and essence of nature through different mediums. Explore an array of paintings, sculptures, and installations inspired by landscapes, wildlife, and natural elements. It’s a celebration of nature’s vibrant colors and serene landscapes, offering an immersive experience that will leave you inspired.",
+      "category": "Art",
+      "host": "Art & Nature Society",
+      "price": 2000
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Charity Marathon",
       "image": "https://plus.unsplash.com/premium_photo-1664304830629-bdac1397d53c?q=80&w=1373&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "6:00 AM",
@@ -119,10 +128,11 @@
       "location": "Los Angeles, CA",
       "description": "A marathon event where all proceeds go to local charities. Participate or sponsor!",
       "category": "Charity",
-      "host": "Community Supporters"
+      "host": "Community Supporters",
+      "price": 3000
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Robotics Workshop",
       "image": "https://images.unsplash.com/photo-1581092334247-44dd684e3c82?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "3:00 PM",
@@ -130,10 +140,11 @@
       "location": "Silicon Valley, CA",
       "description": "Learn the basics of robotics and get hands-on experience building a simple robot.",
       "category": "Technology",
-      "host": "Robotics Academy"
+      "host": "Robotics Academy",
+      "price": 1000
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Classical Music Evening",
       "image": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "7:30 PM",
@@ -141,10 +152,11 @@
       "location": "New York, NY",
       "description": "An evening dedicated to classical music lovers featuring a live orchestra performance.",
       "category": "Music",
-      "host": "City Symphony"
+      "host": "City Symphony",
+      "price": 1200
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Winter Wonderland Craft Fair",
       "image": "https://plus.unsplash.com/premium_photo-1679991898461-bd46c8fe00c0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "10:00 AM",
@@ -152,10 +164,11 @@
       "location": "Boston, MA",
       "description": "Shop handmade crafts, gifts, and decor at this holiday market.",
       "category": "Arts & Crafts",
-      "host": "Handmade Community"
+      "host": "Handmade Community",
+      "price": 5000
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Coding Bootcamp for Beginners",
       "image": "https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "time": "9:00 AM",
@@ -163,7 +176,9 @@
       "location": "Remote",
       "description": "A week-long bootcamp for absolute beginners to learn coding basics.",
       "category": "Education",
-      "host": "Learn to Code Academy"
+      "host": "Learn to Code Academy",
+      "price": 3000
     }
-  ]
+  ],
+  "users": []
 }
